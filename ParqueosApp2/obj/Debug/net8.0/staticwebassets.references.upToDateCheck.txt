@@ -1,2 +1,3 @@
 C:\Users\josep\source\repos\ParqueosApp2\ParqueosApp2.Client\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\josep\source\repos\ParqueosApp2\ParqueosApp2.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\josep\source\repos\ParqueosApp2\ParqueosApp2.Client\obj\Debug\net8.0\staticwebassets.build.json
