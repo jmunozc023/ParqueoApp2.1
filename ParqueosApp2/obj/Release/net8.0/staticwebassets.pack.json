@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\josep\\source\\repos\\ParqueosApp2\\ParqueosApp2\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\ParqueosApp2.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ParqueosApp2.hxyo3lzld2.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\josep\\source\\repos\\ParqueosApp2\\ParqueosApp2\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\josep\\source\\repos\\ParqueosApp2\\ParqueosApp2\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\josep\\source\\repos\\ParqueosApp2\\ParqueosApp2\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\josep\\source\\repos\\ParqueosApp2\\ParqueosApp2\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.ParqueosApp2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.ParqueosApp2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.ParqueosApp2.props",
+      "PackagePath": "build\\ParqueosApp2.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ParqueosApp2.props",
+      "PackagePath": "buildMultiTargeting\\ParqueosApp2.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.ParqueosApp2.props",
+      "PackagePath": "buildTransitive\\ParqueosApp2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

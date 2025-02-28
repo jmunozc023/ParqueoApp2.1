@@ -1026,9 +1026,6 @@ C:\Users\josep\source\repos\ParqueosApp2\ParqueosApp2.Client\obj\Debug\net8.0\co
 C:\Users\josep\source\repos\ParqueosApp2\ParqueosApp2.Client\obj\Debug\net8.0\compressed\23ntii0oo4-tptq2av103.gz
 C:\Users\josep\source\repos\ParqueosApp2\ParqueosApp2.Client\obj\Debug\net8.0\compressed\wi9h2bazw2-lfu7j35m59.gz
 C:\Users\josep\source\repos\ParqueosApp2\ParqueosApp2.Client\obj\Debug\net8.0\compressed\fjpbooqt7w-oyz0vx2fzb.gz
-C:\Users\josep\source\repos\ParqueosApp2\ParqueosApp2.Client\obj\Debug\net8.0\compressed\s6acfvb8vi-a9ieenv4g8.gz
-C:\Users\josep\source\repos\ParqueosApp2\ParqueosApp2.Client\obj\Debug\net8.0\compressed\pxd1vv0cyx-r6p86dd2mr.gz
-C:\Users\josep\source\repos\ParqueosApp2\ParqueosApp2.Client\obj\Debug\net8.0\compressed\adl5g1yl06-873tx50c66.gz
 C:\Users\josep\source\repos\ParqueosApp2\ParqueosApp2.Client\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\josep\source\repos\ParqueosApp2\ParqueosApp2.Client\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\josep\source\repos\ParqueosApp2\ParqueosApp2.Client\obj\Debug\net8.0\staticwebassets.build.endpoints.json
@@ -1044,3 +1041,7 @@ C:\Users\josep\source\repos\ParqueosApp2\ParqueosApp2.Client\obj\Debug\net8.0\Pa
 C:\Users\josep\source\repos\ParqueosApp2\ParqueosApp2.Client\obj\Debug\net8.0\refint\ParqueosApp2.Client.dll
 C:\Users\josep\source\repos\ParqueosApp2\ParqueosApp2.Client\obj\Debug\net8.0\ParqueosApp2.Client.pdb
 C:\Users\josep\source\repos\ParqueosApp2\ParqueosApp2.Client\obj\Debug\net8.0\ref\ParqueosApp2.Client.dll
+C:\Users\josep\source\repos\ParqueosApp2\ParqueosApp2.Client\obj\Debug\net8.0\ParqueosApp2.Client.sourcelink.json
+C:\Users\josep\source\repos\ParqueosApp2\ParqueosApp2.Client\obj\Debug\net8.0\compressed\s6acfvb8vi-lqyvdmtvit.gz
+C:\Users\josep\source\repos\ParqueosApp2\ParqueosApp2.Client\obj\Debug\net8.0\compressed\pxd1vv0cyx-556wo9o47p.gz
+C:\Users\josep\source\repos\ParqueosApp2\ParqueosApp2.Client\obj\Debug\net8.0\compressed\adl5g1yl06-63v2p396ma.gz

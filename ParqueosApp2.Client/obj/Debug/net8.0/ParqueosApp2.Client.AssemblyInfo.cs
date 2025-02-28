@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ParqueosApp2.Client")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+533c12661f4d03fb321473f30bb27cd30d809c4d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ParqueosApp2.Client")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ParqueosApp2.Client")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
