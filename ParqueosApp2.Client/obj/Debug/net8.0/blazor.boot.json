@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "ParqueosApp2.Client",
   "resources": {
-    "hash": "sha256-yETw7iQX0kPBMUUbTS8ZzQDRvoTlEv3ZL0wzl9iTSfc=",
+    "hash": "sha256-HrdPdtlvVwyX+0InL/BJ9F5y7H4UfGsSmfCWW8VY8og=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-xNQsYHtL1vcbrVTHDZAwJM4WovpoyjsrM2C6FQ8cW1w="
     },
@@ -211,10 +211,10 @@
       "mscorlib.wasm": "sha256-RAf5jgXLg+06C4tJ3CabxAZaVjCN2/+E6fxRjRN8yHk=",
       "netstandard.wasm": "sha256-KCAE8RQwTurP5pGnGF819qf9sK++2O0rXzt6tOjlfi8=",
       "System.Private.CoreLib.wasm": "sha256-LQqLbHgeEX4HONx7GwIxGgmzIXP6n2OPxqnq+/4Tyqk=",
-      "ParqueosApp2.Client.wasm": "sha256-7s1RMAjudFVNB7v50WmkbtjnZkvqAlG+YKnIPJSgK4o="
+      "ParqueosApp2.Client.wasm": "sha256-+Ddwht+bSp8mZPOMAw0f8D6EcbFRVax6Y8WIBGExACc="
     },
     "pdb": {
-      "ParqueosApp2.Client.pdb": "sha256-fWQz5IsPsFCz8XPs9sC8ZXwi6VSru4xMK7UvE0M/MTI="
+      "ParqueosApp2.Client.pdb": "sha256-gpVSj9EEpQeGXTwnF0KmO8ODTZ+HRx3rAgoa51fESeI="
     }
   },
   "cacheBootResources": true,
