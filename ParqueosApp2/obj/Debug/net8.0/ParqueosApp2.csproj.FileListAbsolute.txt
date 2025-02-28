@@ -179,3 +179,4 @@ C:\Users\josep\source\repos\ParqueosApp2\ParqueosApp2\obj\Debug\net8.0\refint\Pa
 C:\Users\josep\source\repos\ParqueosApp2\ParqueosApp2\obj\Debug\net8.0\ParqueosApp2.pdb
 C:\Users\josep\source\repos\ParqueosApp2\ParqueosApp2\obj\Debug\net8.0\ParqueosApp2.genruntimeconfig.cache
 C:\Users\josep\source\repos\ParqueosApp2\ParqueosApp2\obj\Debug\net8.0\ref\ParqueosApp2.dll
+C:\Users\josep\source\repos\ParqueosApp2\ParqueosApp2\obj\Debug\net8.0\ParqueosApp2.sourcelink.json
