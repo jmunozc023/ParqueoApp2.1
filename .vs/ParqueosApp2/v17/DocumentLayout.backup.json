@@ -3,6 +3,46 @@
   "WorkspaceRootPath": "C:\\Users\\josep\\source\\repos\\ParqueosApp2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8DB64008-D92C-4501-B661-87FF5DBCFAB8}|ParqueosApp2\\ParqueosApp2.csproj|c:\\users\\josep\\source\\repos\\parqueosapp2\\parqueosapp2\\components\\account\\pages\\forgotpassword.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DB64008-D92C-4501-B661-87FF5DBCFAB8}|ParqueosApp2\\ParqueosApp2.csproj|solutionrelative:parqueosapp2\\components\\account\\pages\\forgotpassword.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB64008-D92C-4501-B661-87FF5DBCFAB8}|ParqueosApp2\\ParqueosApp2.csproj|c:\\users\\josep\\source\\repos\\parqueosapp2\\parqueosapp2\\components\\account\\pages\\confirmemailchange.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DB64008-D92C-4501-B661-87FF5DBCFAB8}|ParqueosApp2\\ParqueosApp2.csproj|solutionrelative:parqueosapp2\\components\\account\\pages\\confirmemailchange.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB64008-D92C-4501-B661-87FF5DBCFAB8}|ParqueosApp2\\ParqueosApp2.csproj|c:\\users\\josep\\source\\repos\\parqueosapp2\\parqueosapp2\\components\\account\\pages\\confirmemail.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DB64008-D92C-4501-B661-87FF5DBCFAB8}|ParqueosApp2\\ParqueosApp2.csproj|solutionrelative:parqueosapp2\\components\\account\\pages\\confirmemail.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB64008-D92C-4501-B661-87FF5DBCFAB8}|ParqueosApp2\\ParqueosApp2.csproj|c:\\users\\josep\\source\\repos\\parqueosapp2\\parqueosapp2\\components\\account\\pages\\accessdenied.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DB64008-D92C-4501-B661-87FF5DBCFAB8}|ParqueosApp2\\ParqueosApp2.csproj|solutionrelative:parqueosapp2\\components\\account\\pages\\accessdenied.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB64008-D92C-4501-B661-87FF5DBCFAB8}|ParqueosApp2\\ParqueosApp2.csproj|c:\\users\\josep\\source\\repos\\parqueosapp2\\parqueosapp2\\components\\account\\pages\\manage\\setpassword.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DB64008-D92C-4501-B661-87FF5DBCFAB8}|ParqueosApp2\\ParqueosApp2.csproj|solutionrelative:parqueosapp2\\components\\account\\pages\\manage\\setpassword.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB64008-D92C-4501-B661-87FF5DBCFAB8}|ParqueosApp2\\ParqueosApp2.csproj|c:\\users\\josep\\source\\repos\\parqueosapp2\\parqueosapp2\\components\\account\\pages\\manage\\personaldata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DB64008-D92C-4501-B661-87FF5DBCFAB8}|ParqueosApp2\\ParqueosApp2.csproj|solutionrelative:parqueosapp2\\components\\account\\pages\\manage\\personaldata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB64008-D92C-4501-B661-87FF5DBCFAB8}|ParqueosApp2\\ParqueosApp2.csproj|c:\\users\\josep\\source\\repos\\parqueosapp2\\parqueosapp2\\components\\account\\pages\\manage\\deletepersonaldata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DB64008-D92C-4501-B661-87FF5DBCFAB8}|ParqueosApp2\\ParqueosApp2.csproj|solutionrelative:parqueosapp2\\components\\account\\pages\\manage\\deletepersonaldata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB64008-D92C-4501-B661-87FF5DBCFAB8}|ParqueosApp2\\ParqueosApp2.csproj|c:\\users\\josep\\source\\repos\\parqueosapp2\\parqueosapp2\\components\\account\\pages\\manage\\email.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DB64008-D92C-4501-B661-87FF5DBCFAB8}|ParqueosApp2\\ParqueosApp2.csproj|solutionrelative:parqueosapp2\\components\\account\\pages\\manage\\email.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB64008-D92C-4501-B661-87FF5DBCFAB8}|ParqueosApp2\\ParqueosApp2.csproj|c:\\users\\josep\\source\\repos\\parqueosapp2\\parqueosapp2\\components\\account\\pages\\manage\\changepassword.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DB64008-D92C-4501-B661-87FF5DBCFAB8}|ParqueosApp2\\ParqueosApp2.csproj|solutionrelative:parqueosapp2\\components\\account\\pages\\manage\\changepassword.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB64008-D92C-4501-B661-87FF5DBCFAB8}|ParqueosApp2\\ParqueosApp2.csproj|c:\\users\\josep\\source\\repos\\parqueosapp2\\parqueosapp2\\components\\account\\pages\\manage\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DB64008-D92C-4501-B661-87FF5DBCFAB8}|ParqueosApp2\\ParqueosApp2.csproj|solutionrelative:parqueosapp2\\components\\account\\pages\\manage\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8DB64008-D92C-4501-B661-87FF5DBCFAB8}|ParqueosApp2\\ParqueosApp2.csproj|c:\\users\\josep\\source\\repos\\parqueosapp2\\parqueosapp2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{8DB64008-D92C-4501-B661-87FF5DBCFAB8}|ParqueosApp2\\ParqueosApp2.csproj|solutionrelative:parqueosapp2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
@@ -14,21 +54,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\josep\\source\\repos\\ParqueosApp2\\ParqueosApp2\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "ParqueosApp2\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\josep\\source\\repos\\ParqueosApp2\\ParqueosApp2\\Properties\\launchSettings.json",
-              "RelativeToolTip": "ParqueosApp2\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-28T04:18:04.012Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -42,8 +69,147 @@
               "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ForgotPassword.razor",
+              "DocumentMoniker": "C:\\Users\\josep\\source\\repos\\ParqueosApp2\\ParqueosApp2\\Components\\Account\\Pages\\ForgotPassword.razor",
+              "RelativeDocumentMoniker": "ParqueosApp2\\Components\\Account\\Pages\\ForgotPassword.razor",
+              "ToolTip": "C:\\Users\\josep\\source\\repos\\ParqueosApp2\\ParqueosApp2\\Components\\Account\\Pages\\ForgotPassword.razor",
+              "RelativeToolTip": "ParqueosApp2\\Components\\Account\\Pages\\ForgotPassword.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T08:35:40.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConfirmEmailChange.razor",
+              "DocumentMoniker": "C:\\Users\\josep\\source\\repos\\ParqueosApp2\\ParqueosApp2\\Components\\Account\\Pages\\ConfirmEmailChange.razor",
+              "RelativeDocumentMoniker": "ParqueosApp2\\Components\\Account\\Pages\\ConfirmEmailChange.razor",
+              "ToolTip": "C:\\Users\\josep\\source\\repos\\ParqueosApp2\\ParqueosApp2\\Components\\Account\\Pages\\ConfirmEmailChange.razor",
+              "RelativeToolTip": "ParqueosApp2\\Components\\Account\\Pages\\ConfirmEmailChange.razor",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T08:33:34.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConfirmEmail.razor",
+              "DocumentMoniker": "C:\\Users\\josep\\source\\repos\\ParqueosApp2\\ParqueosApp2\\Components\\Account\\Pages\\ConfirmEmail.razor",
+              "RelativeDocumentMoniker": "ParqueosApp2\\Components\\Account\\Pages\\ConfirmEmail.razor",
+              "ToolTip": "C:\\Users\\josep\\source\\repos\\ParqueosApp2\\ParqueosApp2\\Components\\Account\\Pages\\ConfirmEmail.razor",
+              "RelativeToolTip": "ParqueosApp2\\Components\\Account\\Pages\\ConfirmEmail.razor",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACwAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T08:32:24.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccessDenied.razor",
+              "DocumentMoniker": "C:\\Users\\josep\\source\\repos\\ParqueosApp2\\ParqueosApp2\\Components\\Account\\Pages\\AccessDenied.razor",
+              "RelativeDocumentMoniker": "ParqueosApp2\\Components\\Account\\Pages\\AccessDenied.razor",
+              "ToolTip": "C:\\Users\\josep\\source\\repos\\ParqueosApp2\\ParqueosApp2\\Components\\Account\\Pages\\AccessDenied.razor",
+              "RelativeToolTip": "ParqueosApp2\\Components\\Account\\Pages\\AccessDenied.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T08:31:31.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SetPassword.razor",
+              "DocumentMoniker": "C:\\Users\\josep\\source\\repos\\ParqueosApp2\\ParqueosApp2\\Components\\Account\\Pages\\Manage\\SetPassword.razor",
+              "RelativeDocumentMoniker": "ParqueosApp2\\Components\\Account\\Pages\\Manage\\SetPassword.razor",
+              "ToolTip": "C:\\Users\\josep\\source\\repos\\ParqueosApp2\\ParqueosApp2\\Components\\Account\\Pages\\Manage\\SetPassword.razor",
+              "RelativeToolTip": "ParqueosApp2\\Components\\Account\\Pages\\Manage\\SetPassword.razor",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAFIAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T08:27:53.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PersonalData.razor",
+              "DocumentMoniker": "C:\\Users\\josep\\source\\repos\\ParqueosApp2\\ParqueosApp2\\Components\\Account\\Pages\\Manage\\PersonalData.razor",
+              "RelativeDocumentMoniker": "ParqueosApp2\\Components\\Account\\Pages\\Manage\\PersonalData.razor",
+              "ToolTip": "C:\\Users\\josep\\source\\repos\\ParqueosApp2\\ParqueosApp2\\Components\\Account\\Pages\\Manage\\PersonalData.razor",
+              "RelativeToolTip": "ParqueosApp2\\Components\\Account\\Pages\\Manage\\PersonalData.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T08:24:54.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Email.razor",
+              "DocumentMoniker": "C:\\Users\\josep\\source\\repos\\ParqueosApp2\\ParqueosApp2\\Components\\Account\\Pages\\Manage\\Email.razor",
+              "RelativeDocumentMoniker": "ParqueosApp2\\Components\\Account\\Pages\\Manage\\Email.razor",
+              "ToolTip": "C:\\Users\\josep\\source\\repos\\ParqueosApp2\\ParqueosApp2\\Components\\Account\\Pages\\Manage\\Email.razor",
+              "RelativeToolTip": "ParqueosApp2\\Components\\Account\\Pages\\Manage\\Email.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T08:20:50.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeletePersonalData.razor",
+              "DocumentMoniker": "C:\\Users\\josep\\source\\repos\\ParqueosApp2\\ParqueosApp2\\Components\\Account\\Pages\\Manage\\DeletePersonalData.razor",
+              "RelativeDocumentMoniker": "ParqueosApp2\\Components\\Account\\Pages\\Manage\\DeletePersonalData.razor",
+              "ToolTip": "C:\\Users\\josep\\source\\repos\\ParqueosApp2\\ParqueosApp2\\Components\\Account\\Pages\\Manage\\DeletePersonalData.razor",
+              "RelativeToolTip": "ParqueosApp2\\Components\\Account\\Pages\\Manage\\DeletePersonalData.razor",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T08:17:33.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ChangePassword.razor",
+              "DocumentMoniker": "C:\\Users\\josep\\source\\repos\\ParqueosApp2\\ParqueosApp2\\Components\\Account\\Pages\\Manage\\ChangePassword.razor",
+              "RelativeDocumentMoniker": "ParqueosApp2\\Components\\Account\\Pages\\Manage\\ChangePassword.razor",
+              "ToolTip": "C:\\Users\\josep\\source\\repos\\ParqueosApp2\\ParqueosApp2\\Components\\Account\\Pages\\Manage\\ChangePassword.razor",
+              "RelativeToolTip": "ParqueosApp2\\Components\\Account\\Pages\\Manage\\ChangePassword.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T08:10:00.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\josep\\source\\repos\\ParqueosApp2\\ParqueosApp2\\Components\\Account\\Pages\\Manage\\Index.razor",
+              "RelativeDocumentMoniker": "ParqueosApp2\\Components\\Account\\Pages\\Manage\\Index.razor",
+              "ToolTip": "C:\\Users\\josep\\source\\repos\\ParqueosApp2\\ParqueosApp2\\Components\\Account\\Pages\\Manage\\Index.razor",
+              "RelativeToolTip": "ParqueosApp2\\Components\\Account\\Pages\\Manage\\Index.razor",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEMAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T08:03:29.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\josep\\source\\repos\\ParqueosApp2\\ParqueosApp2\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ParqueosApp2\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\josep\\source\\repos\\ParqueosApp2\\ParqueosApp2\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ParqueosApp2\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-28T07:56:03.04Z",
+              "EditorCaption": ""
             }
           ]
         }
