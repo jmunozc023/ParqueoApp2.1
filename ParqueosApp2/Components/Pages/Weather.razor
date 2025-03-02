@@ -1,13 +1,14 @@
 ﻿@page "/weather"
 @attribute [StreamRendering]
 
-<PageTitle>Weather</PageTitle>
 
-<h1>Weather</h1>
+<PageTitle>Administracion de parqueos</PageTitle>
 
-<p>This component demonstrates showing data.</p>
+<h1>Administracion de parqueos</h1>
 
-@if (forecasts == null)
+<p>Portal para administracion de parqueos.</p>
+
+@if (parqueos == null)
 {
     <p><em>Loading...</em></p>
 }
@@ -16,49 +17,75 @@ else
     <table class="table">
         <thead>
             <tr>
-                <th>Date</th>
-                <th>Temp. (C)</th>
-                <th>Temp. (F)</th>
-                <th>Summary</th>
+                <th>Nombre Parqueo</th>
+                <th>Ubicacion</th>
+                <th>Acciones</th>
             </tr>
         </thead>
         <tbody>
-            @foreach (var forecast in forecasts)
+            @foreach (var parqueo in parqueos)
             {
                 <tr>
-                    <td>@forecast.Date.ToShortDateString()</td>
-                    <td>@forecast.TemperatureC</td>
-                    <td>@forecast.TemperatureF</td>
-                    <td>@forecast.Summary</td>
+                    <td>@parqueo.Nombre_Parqueo</td>
+                    <td>@parqueo.Ubicacion</td>
+                    <td>
+                        <button @onclick="() => EditParqueo(parqueo)">Editar</button>
+                        <button @onclick="() => DeleteParqueo(parqueo)">Eliminar</button>
+                    </td>
                 </tr>
             }
         </tbody>
     </table>
 }
 
+@if (selectedParqueo != null)
+{
+    <h3>Editar Parqueo</h3>
+    <input @bind="selectedParqueo.Nombre_Parqueo" placeholder="Nombre Parqueo" />
+    <input @bind="selectedParqueo.Ubicacion" placeholder="Ubicacion" />
+    <button @onclick="SaveParqueo">Guardar</button>
+}
+
 @code {
-    private WeatherForecast[]? forecasts;
+    private List<Parqueo>? parqueos;
+    private Parqueo? selectedParqueo;
 
     protected override async Task OnInitializedAsync()
     {
         // Simulate asynchronous loading to demonstrate streaming rendering
         await Task.Delay(500);
 
-        var startDate = DateOnly.FromDateTime(DateTime.Now);
-        var summaries = new[] { "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching" };
-        forecasts = Enumerable.Range(1, 5).Select(index => new WeatherForecast
+        // Load initial data
+        parqueos = new List<Parqueo>
         {
-            Date = startDate.AddDays(index),
-            TemperatureC = Random.Shared.Next(-20, 55),
-            Summary = summaries[Random.Shared.Next(summaries.Length)]
-        }).ToArray();
+            new Parqueo { Nombre_Parqueo = "Parqueo 1", Ubicacion = "Ubicacion 1" },
+            new Parqueo { Nombre_Parqueo = "Parqueo 2", Ubicacion = "Ubicacion 2" }
+        };
     }
 
-    private class WeatherForecast
+    private void EditParqueo(Parqueo parqueo)
     {
-        public DateOnly Date { get; set; }
-        public int TemperatureC { get; set; }
-        public string? Summary { get; set; }
-        public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
+        selectedParqueo = parqueo;
+    }
+
+    private void SaveParqueo()
+    {
+        selectedParqueo = null;
+    }
+
+    private void DeleteParqueo(Parqueo parqueo)
+    {
+        parqueos?.Remove(parqueo);
+    }
+
+    private class Parqueo
+    {
+        public string? Nombre_Parqueo { get; set; }
+        public string? Ubicacion { get; set; }
     }
 }
+
+
+
+
+
